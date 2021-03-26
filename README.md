@@ -12,7 +12,7 @@ name: Deploy documentation
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy-doc:
